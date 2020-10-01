@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### You can find me: 
-[![Telegram](https://img.shields.io/badge/-Telegram-A3D5C1?style=for-the-badge&logo=Telegram&labelColor=818181)](https://t.me/DanaDov)
-
-[![linkedIn](https://img.shields.io/badge/-linkedIn-A3D5C1?style=for-the-badge&logo=linkedIn&labelColor=818181)](https://www.linkedin.com/in/bohdana-dovzhenko-3081b91b3/)
+[![Telegram](https://img.shields.io/badge/-Telegram-282928?style=for-the-badge&logo=Telegram&labelColor=D4D5D7)](https://t.me/DanaDov)
+[![linkedIn](https://img.shields.io/badge/-linkedIn-282928?style=for-the-badge&logo=linkedIn&labelColor=D4D5D7&logoColor=4CA0F4)](https://www.linkedin.com/in/bohdana-dovzhenko-3081b91b3/)
