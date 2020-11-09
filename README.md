@@ -20,15 +20,15 @@
 <span><img height="30" title="HTML5" src="img/html.svg"></span>
 <span><img height="30" title="CSS3" src="img/css.svg"></span>
 <span><img height="30" title="Sass" src="img/sass.svg"></span> 
-<span><img height="30" title="Bootstrap" src="https://i.stack.imgur.com/dMXbE.png"></span>
+<span><img height="30" title="Bootstrap" src="img/bootstrap.svg"></span>
 
 **<h2>Tools: <img width="30" src="img/computer.svg"></h2>**
 
-<span><img height="30" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></span>
-<span><img height="30" title="SublimeText" src="https://lumpics.ru/wp-content/uploads/2017/11/Programma-SublimeText.png"></span>
+<span><img height="30" title="Visual Studio Code" src="img/visual-studio-code.svg"></span>
+<span><img height="30" title="SublimeText" src="img/sublime-text.svg"></span>
 <span><img height="30" title="GitHub" src="img/github.svg"></span>
 <span><img height="30" title="Figma" src="img/figma.svg"></span> 
-<span><img height="30" title="Avocode" src="https://www.macupdate.com/images/icons512/58650.png"></span>
+<span><img height="30" title="Avocode" src="img/avocode.svg"></span>
 <span><img height="30" title="Linux" src="img/linux.svg"></span>
 
 <h2>If you want to chat with me, you can find me:<img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif" width="30">:</h2>
