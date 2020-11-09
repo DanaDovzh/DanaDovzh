@@ -15,21 +15,23 @@
 <br/>
 
 **<h2>Tech Stack: :female-technologist:</h2>**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="30" src="https://img.favpng.com/20/7/5/html-logo-canvas-element-javascript-png-favpng-9Zr8VThP4aQLbAyUYddQzU2rA.jpg"></code>
-<code><img height="30" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></code> 
-<code><img height="30" src="https://i.stack.imgur.com/dMXbE.png"></code>
+
+[1.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png (JavaScript)
+[2.1]: https://img.favpng.com/20/7/5/html-logo-canvas-element-javascript-png-favpng-9Zr8VThP4aQLbAyUYddQzU2rA.jpg (HTML)
+[3.1]: https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/ (CSS)
+[4.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png (Sass)
+[5.1]: https://i.stack.imgur.com/dMXbE.png (Bootstrap)
 
 
 **<h2>Tools: :computer:</h2>**
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="30" src="https://lumpics.ru/wp-content/uploads/2017/11/Programma-SublimeText.png"></code>
-<code><img height="30" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"></code> 
-<code><img height="30" src="https://www.macupdate.com/images/icons512/58650.png"></code>
-<code><img height="30" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png"></code>
+[1.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png (Visual Studio Code)
+[2.2]: https://lumpics.ru/wp-content/uploads/2017/11/Programma-SublimeText.png (SublimeText)
+[3.2]: https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512 (GitHub)
+[4.2]: https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png (Figma)
+[5.2]: https://www.macupdate.com/images/icons512/58650.png (Avocode)
+[6.2]: https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png (Linux)
+
 <h2>If you want to chat with me, you can find me:<img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif" width="30">:</h2>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282928?style=for-the-badge&logo=Telegram&labelColor=D4D5D7)](https://t.me/DanaDov)
