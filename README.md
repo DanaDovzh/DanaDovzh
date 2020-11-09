@@ -33,6 +33,6 @@
 
 <h2>If you want to chat with me, you can find me:<img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif" width="30">:</h2>
 
-[![Telegram](img/telegram.svg)](https://t.me/DanaDov)
-[![linkedIn](img/linkedin.svg)](https://www.linkedin.com/in/bohdana-dovzhenko-3081b91b3/)
+[![Telegram](https://img.shields.io/badge/-Telegram-282928?style=for-the-badge&logo=Telegram&labelColor=D4D5D7)](https://t.me/DanaDov)
+[![linkedIn](https://img.shields.io/badge/-linkedIn-282928?style=for-the-badge&logo=linkedIn&labelColor=D4D5D7&logoColor=4CA0F4)](https://www.linkedin.com/in/bohdana-dovzhenko-3081b91b3/)
 
