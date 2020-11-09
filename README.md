@@ -14,7 +14,7 @@
 &thinsp; <img src="https://media.giphy.com/media/WsjvlTHDdpiqRCIUxx/giphy.gif" width="15"> <span style="color:#FF0000">**Very important!**</span> I have an incredible turtle
 <br/>
 
-**<h2>Tech Stack: :woman_technologist:</h2>**
+**<h2>Tech Stack: <img width="30" src="img/girlcomputer.svg"> </h2>**
 
 <span><img height="30" title="JavaScript" src="img/javascript.svg"></span>
 <span><img height="30" title="HTML5" src="img/html.svg"></span>
@@ -22,7 +22,7 @@
 <span><img height="30" title="Sass" src="img/sass.svg"></span> 
 <span><img height="30" title="Bootstrap" src="https://i.stack.imgur.com/dMXbE.png"></span>
 
-**<h2>Tools: :computer:</h2>**
+**<h2>Tools: <img width="30" src="img/computer.svg"></h2>**
 
 <span><img height="30" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></span>
 <span><img height="30" title="SublimeText" src="https://lumpics.ru/wp-content/uploads/2017/11/Programma-SublimeText.png"></span>
