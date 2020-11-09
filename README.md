@@ -22,7 +22,7 @@
 <span><img height="30" title="Sass" src="img/sass.svg"></span> 
 <span><img height="30" title="Bootstrap" src="img/bootstrap.svg"></span>
 
-**<h2>Tools: <img width="30" src="img/computer.svg"></h2>**
+**<h2>Tools: <img width="25" src="img/computer.svg"></h2>**
 
 <span><img height="30" title="Visual Studio Code" src="img/visual-studio-code.svg"></span>
 <span><img height="30" title="SublimeText" src="img/sublime-text.svg"></span>
