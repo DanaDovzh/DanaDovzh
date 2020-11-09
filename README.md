@@ -14,6 +14,14 @@
 &thinsp; <img src="https://media.giphy.com/media/WsjvlTHDdpiqRCIUxx/giphy.gif" width="15"> <span style="color:#FF0000">**Very important!**</span> I have an incredible turtle
 <br/>
 
+**<h2>Tech Stack: :female-technologist:</h2>**
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height="30" src="https://img.favpng.com/20/7/5/html-logo-canvas-element-javascript-png-favpng-9Zr8VThP4aQLbAyUYddQzU2rA.jpg"></code>
+<code><img height="30" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></code> 
+<code><img height="30" src="https://i.stack.imgur.com/dMXbE.png"></code>
+
+
 **<h2>Tools: :computer:</h2>**
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
