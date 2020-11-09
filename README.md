@@ -14,18 +14,17 @@
 &thinsp; <img src="https://media.giphy.com/media/WsjvlTHDdpiqRCIUxx/giphy.gif" width="15"> <span style="color:#FF0000">**Very important!**</span> I have an incredible turtle
 <br/>
 
-**<h2>Tech Stack: </h2>**
+**<h2>Tech Stack: :woman_technologist:</h2>**
 
 <span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></span>
 <span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></span>
 <span><img height="30" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/"></span>
 <span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></span> 
 <span><img height="30" src="https://i.stack.imgur.com/dMXbE.png"></span>
-<span><img height="30" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird.png"></span>
 
 **<h2>Tools: :computer:</h2>**
 
-<span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_span_1.35_icon.svg/1200px-Visual_Studio_span_1.35_icon.svg.png"></span>
+<span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></span>
 <span><img height="30" src="https://lumpics.ru/wp-content/uploads/2017/11/Programma-SublimeText.png"></span>
 <span><img height="30" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512"></span>
 <span><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"></span> 
