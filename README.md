@@ -16,8 +16,8 @@
 
 **<h2>Tools: :computer:</h2>**
 
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="20" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512">
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="30" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512"></code>
 <h2>If you want to chat with me, you can find me:<img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif" width="30">:</h2>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282928?style=for-the-badge&logo=Telegram&labelColor=D4D5D7)](https://t.me/DanaDov)
