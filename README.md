@@ -21,7 +21,6 @@
 <span><img height="30" title="CSS3" src="img/css.svg"></span>
 <span><img height="30" title="Sass" src="img/sass.svg"></span>
 <span><img height="30" title="Bootstrap" src="img/bootstrap.svg"></span>
-<span><img height="30" title="JS" src="img/js.svg"></span>
 <span><img height="30" title="React JS" src="img/reactjs.svg"></span>
 <span><img height="30" title="Material ui" src="img/material-ui.svg"></span>
 
