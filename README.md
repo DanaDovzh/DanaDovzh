@@ -1,19 +1,5 @@
 <h1>Hello, everybody. I'm Dana. <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30"></h1>
 
-**<h2>Short information about me:</h2>**
-
-&thinsp; :computer: I have been working as Frontend Developer
-<img width="200" height ="200" align="right" src="img/avatar.jpg">
-
-&thinsp; :us: Also, I'm learning English
-
-&thinsp; <img src="https://media.giphy.com/media/LQo5HzZnmZQ74Uc8tI/giphy.gif" width="15"> I like to travel
-
-&thinsp; :books: I like to immerse myself in book stories
-
-&thinsp; <img src="https://media.giphy.com/media/WsjvlTHDdpiqRCIUxx/giphy.gif" width="15"> <span style="color:#FF0000">**Very important!**</span> I have an incredible turtle
-<br/>
-
 **<h2>Tech Stack: <img width="30" src="img/girlcomputer.svg"> </h2>**
 
 <span><img height="30" title="JavaScript" src="img/js.svg"></span>
